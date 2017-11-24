@@ -1,0 +1,20 @@
+image_width: 1288
+image_height: 964
+camera_name: pg_14291877
+camera_matrix:
+  rows: 3
+  cols: 3
+  data: [806.17741860, 0, 673.27844038, 0, 803.69305244, 483.16764353, 0, 0, 1]
+distortion_model: plumb_bob
+distortion_coefficients:
+  rows: 1
+  cols: 5
+  data: [-0.33697118,0.11106649, 0.00030370,0.00054437, 0]
+rectification_matrix:
+  rows: 3
+  cols: 3
+  data: [1, 0, 0, 0, 1, 0, 0, 0, 1]
+projection_matrix:
+  rows: 3
+  cols: 4
+  data: [806.17741860, 0, 673.27844038, 0, 0,  803.69305244, 483.16764353, 0, 0, 0, 1, 0]

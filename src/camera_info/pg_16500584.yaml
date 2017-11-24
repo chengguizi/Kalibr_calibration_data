@@ -1,0 +1,21 @@
+image_width: 2048
+image_height: 2048
+camera_name: pg_16500584
+camera_matrix:
+  rows: 3
+  cols: 3
+  data: [1513.548344, 0.0, 1036.494356, 0.0, 1511.789035, 1013.817112, 0.0, 0.0, 1.0]
+distortion_model: plumb_bob
+distortion_coefficients:
+  rows: 1
+  cols: 5
+  data: [-0.073886, 0.089502, -0.001241, -0.000690, 0.0]
+rectification_matrix:
+  rows: 3
+  cols: 3
+  data: [1, 0, 0, 0, 1, 0, 0, 0, 1]
+projection_matrix:
+  rows: 3
+  cols: 4
+  data: [1523.558228, 0.0, 1033.467903, 0.0, 0.0, 1523.119507, 1010.973285, 0.0, 0.0, 0.0, 1.0, 0.0]
+
